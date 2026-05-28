@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filterpalidate",
+        "uuid": 23617581,
+        "checksum": "z8pv4"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
